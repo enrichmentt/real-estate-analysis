@@ -1,0 +1,23 @@
+# Virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Generated analysis outputs
+outputs/
+
+# PDF visual inspection artifacts
+reports/pdf-qa/
+
+# OS and editor files
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
